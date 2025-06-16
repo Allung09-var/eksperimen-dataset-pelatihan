@@ -1,0 +1,6 @@
+KDDCup99 adalah dataset yang digunakan untuk mendeteksi intrusi jaringan (network intrusion detection). Dataset ini berisi berbagai jenis koneksi jaringan, baik yang normal maupun yang mengandung serangan (attack). Setiap koneksi direpresentasikan dengan sejumlah fitur yang menggambarkan karakteristik lalu lintas jaringan.
+
+Sumber dataset KDDCup99 dapat diambil langsung dari library sklearn.datasets dengan fungsi fetch_kddcup99.
+
+Referensi:
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_kddcup99.html
